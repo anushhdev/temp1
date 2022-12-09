@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 
-* {
+*,#incr1 {
   font-family: "Noto Sans", sans-serif;
   word-spacing: 2px;
 }
@@ -131,7 +131,7 @@
 
 #des13,#des16,#des19 {
   color: #2f3330;
-  font-size: 150%;
+  font-size: 400%;
   font-weight: bold;
   /* letter-spacing: 0.5px; */
   word-spacing: 2px;
@@ -269,7 +269,6 @@ left: -4%;
   /* border: 5px solid deeppink; */
   font-size: 120%;
   margin-top: 2rem;
-   
 }
 
 .sec32{
@@ -279,4 +278,73 @@ margin-top:15% ;
 
 .sec33{
   margin-top:20% ;
+}
+
+.sec4{
+  /* border: 5px solid deeppink; */
+}
+
+
+#d4112,#d421,#d422,#d423{
+  color: #2F3330;
+}
+
+
+#d4112{
+  font-size: 300%;
+  font-weight: bold;
+}
+
+#d421,#d422,#d423{
+  font-weight: bolder;
+  font-size: 120%;
+  margin-top: 10%;
+  
+}
+
+#d4111{
+  margin-bottom: 15%;
+}
+
+.sec411{
+margin-bottom: 20%;
+}
+
+
+.sec412{
+  /* border: 5px solid deeppink; */
+  margin-top: 34%;
+}
+
+
+
+.sec42{
+  margin-left: 15%;
+}
+
+#sp1,#sp2,#sp3{
+  /* padding-top: 150%; */
+  /* border: 5px solid deeppink; */
+  /* margin-top: 50%; */
+  
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #4d7b58;
+}
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  color: red;
+}
+
+.topnav a.split {
+  float: right;
 }
